@@ -1,0 +1,12 @@
+
+
+.login-form{
+    padding: 50px;
+}
+
+.card{
+    position: relative;
+    bottom: -50px;
+    left: 20%;
+    width: 50%;
+}
